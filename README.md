@@ -11,7 +11,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+<summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a>
     <li><a href="#built-with">Built With</a></li>
@@ -83,14 +83,7 @@ To setup this program on your desktop, follow the steps below.
 
 <!-- conclusion -->
 ## Conclusion
-Based on the models, the one that performs the best is 
-The performance 
-
-* Which one seems to perform best? How do you know it performs best?
-* Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
-
-If you do not recommend any of the models, please justify your reasoning.
-
+The performance of the model depends on what we are trying to do and in this case we are trying to identify the risky borrowers. So, although the precision of the 2nd model is 84% and less than the 1st model, the 2nd model is better becaues it accurately identifies risky loans (recall of 99%). 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
