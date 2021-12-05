@@ -53,7 +53,7 @@ To setup this program on your desktop, follow the steps below.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Overview of Analysis -->
-## Analysis
+### Analysis
 
 1. In the first steps, we have to train the model with our original data and analyze those results. 
 2. We take the historical CSV lending data and make it into a pandas dataframe. 
@@ -82,13 +82,13 @@ To setup this program on your desktop, follow the steps below.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- conclusion -->
-## Conclusion
+### Conclusion
 The performance of the model depends on what we are trying to do and in this case we are trying to identify the risky borrowers. So, although the precision of the 2nd model is 84% and less than the 1st model, the 2nd model is better becaues it accurately identifies risky loans (recall of 99%). 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
-## License
+### License
 
 Distributed under the MIT License.
 See [license txt](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
@@ -96,7 +96,7 @@ See [license txt](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+### Acknowledgments
 Credit to creator of readme template. The repo also has useful resources. 
 * [README Template](https://github.com/othneildrew/Best-README-Template.git)
 
